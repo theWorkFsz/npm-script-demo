@@ -1,0 +1,14 @@
+{
+  "name": "npm-script-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "demo": "cowsay 'i am here'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
